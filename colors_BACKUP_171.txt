@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+black
+grey
+=======
+red
+green
+blue
+>>>>>>> colors
